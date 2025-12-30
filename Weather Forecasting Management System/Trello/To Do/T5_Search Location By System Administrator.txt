@@ -1,0 +1,1 @@
+As a system administrator i want to search for a location so that i can view weather data for that place.
